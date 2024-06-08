@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im still an 11th grade student
+- ⚡ Fun fact: Im just an 11th grade student
 
 <!---
 Seangarcia01/Seangarcia01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
