@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seangarcia01
+- 👋 Hi, I’m @Sean Geniel Garcia
 - 👀 I’m interested in you ❤️
 - 🌱 I’m currently learning CS50’s Introduction to Computer Science Week 8 - HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on creating a future with you. 
