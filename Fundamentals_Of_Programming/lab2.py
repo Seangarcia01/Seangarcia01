@@ -1,0 +1,11 @@
+student_name = input("Student  name: ")
+cys = input("Course/Year/Level (CYS): ")
+attendance = int(input("Attendance Score (e.g. 5): "))
+class_participation = int(input("Class Participation (e.g. 10): "))
+quiz_1 = int(input("Short Quiz 1 Score: "))
+quiz_2 = int(input("Short Quiz 2 Score: "))
+quiz_3 = int(input("Short Quiz 3 Score: "))
+long_exam = int(input("Long Exam Score: "))
+summative_exam = int(input("Summative Exam Score: "))
+
+print(student_name, cys, attendance, class_participation, quiz_1,quiz_2,quiz_3,summative_exam)
