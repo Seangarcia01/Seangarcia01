@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sean Geniel Garcia
-- 👀 I’m interested in you learning and mastering computer science concepts.
+- 👀 I’m interested in learning and mastering computer science concepts.
 - 🌱 I’m currently learning Cybersecurity course of RIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? you can email me at seangenielgarcia@gmail.com
